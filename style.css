@@ -1,0 +1,181 @@
+header{
+    display: flex;
+    background-color: white;
+    height: 90px;
+    justify-content: space-between;
+    align-items: center;
+}
+.welcome{
+    margin-top: 3.5%;
+    margin-left: 2%;
+    color:orangered;
+}
+.baking{
+    color: mediumvioletred;
+    font-size:xx-large;
+}
+.hotel{
+    height: 100px;
+    margin-left: 5%;
+    width: 90px;
+    height: 70px;
+}
+.men{
+    margin-left: 9%;
+}
+.icon{
+    width: 55px;
+    margin-left: 4%;
+}
+.next{
+    color: blue;
+    margin-top: 5%;
+}
+.nav_bar{
+    display: flex;
+    margin-right: 10%;
+}
+.nav_bar a{
+    margin-right: 4%;
+    text-align: center;
+    text-decoration:solid;
+    font-weight: 700;
+    color: rgb(247, 35, 106);
+    padding: 28px 0;
+}
+.poster{
+    margin-top: 30px;
+    width: 600px;
+    justify-items: center;
+}
+.fresh{
+    margin-left: 20%;
+    margin-top: 30%;
+    color:chocolate;
+}
+.caption{
+    display: flex;
+}
+.cake{
+    color:purple;
+    margin-left: 8%;
+    margin-top: 3%;
+}
+.cakes{
+    color: purple;
+margin-left: 45%;
+}
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-decoration: solid;
+}
+.disp{
+    display: flex;
+    color: orangered;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+.menu1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.forest{
+    width: 200px;
+    border-radius: 10%;
+}
+.forest1{
+    width: 220;
+    border-radius: 10%;
+}
+.plum{
+    width: 200px;
+    border-radius: 10%;
+}
+.cup{
+    border-radius: 10%;
+}
+
+.fot{
+    color: white;
+}
+.fott{
+    width: 100px;
+    color: yellow;
+}
+.foot{
+    text-align: center;
+    background-color: deeppink;
+}
+.abt{
+    color: deeppink;
+    margin-top: 1%;
+}
+.hr{
+    width: 80px;
+}
+.hr1{
+    width: 60px;
+    align-items: center;
+}
+.ambient{
+    width: 450px;
+    justify-content: space-evenly;
+    border-radius: 10%;
+    margin-top: 3%;
+}
+.len{
+    width: 60%;
+}
+.pa{
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+}
+.plate{
+    color: deeppink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 2%;
+}
+.list{
+    margin-left: 4%;
+    display: inline-block;
+}
+.list2{
+    margin-left: 3%;
+    display: inline-block;
+}
+.clr{
+    color: rgb(162, 5, 162);
+    font-size:larger;
+}
+.taste{
+    color: orangered;
+    margin-top: 10%;
+}
+.oder{
+    color: green;
+    margin-top: 10px;
+    width: 180px;
+}
+.btn{
+    width: 15%;
+    margin-left: 70%;
+    border-radius: 5%;
+}
+.place{
+    color: green;
+    margin-left: 8%;
+    margin-top: 1%;
+}
+.pla{
+    margin-top: 2%;
+}
+.op{
+    margin-left: 80%;
+}
